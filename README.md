@@ -20,6 +20,8 @@ If you omit `<destination-dir>`, the command will add copy the template to a fol
 
 This is working example that you can change to suit your needs.
 
+See https://github.com/racket/racket/wiki/Creating-Languages for resources on creating languages.
+
 # Description
 
 This template is derived from https://github.com/samth/xlang : 
