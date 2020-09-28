@@ -16,6 +16,8 @@ raco new lang <destination-dir>
 ```
 If you omit `<destination-dir>`, the command will add copy the template to a folder called `lang` in the current folder.
 
+You can also click [Use this template](https://github.com/racket-templates/lang/generate) to copy the repository.
+
 # How to use
 
 This is working example that you can change to suit your needs.
