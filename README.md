@@ -1,6 +1,6 @@
 # `#lang` template
 
-A template for a `#lang` language
+A working example of a `#lang` language you can use as a starting point for creating your own `#lang` language.
 
 # How To Install
 
